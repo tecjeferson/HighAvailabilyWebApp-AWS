@@ -1,0 +1,16 @@
+Parameters:
+    EnvironmentName:
+        Description: An Environment name that will be prefixed to resources
+        Type: String
+
+    VpcCIDR:
+        Description: Please enter the IP range (CIDR notation) for this
+        Type: String
+        Default: 10.0.0.0/16
+
+
+
+
+
+#Comando para executar o Yml e o parametro do Json
+#aws cloudformation create-stack --stack-name MyStack --template-body file://MyCloudformationScript.yml  --parameters file://MyEnvironmentVariables.json 
