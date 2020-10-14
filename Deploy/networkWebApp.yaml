@@ -1,7 +1,6 @@
 Description: >
   Jeferson Rocha / Deploy a network for high availability web app
 
-# ./update.sh HAWebApp networkWebApp.yaml networkWebApp-parameters.json
 Parameters:
   EnvironmentName:
     Description: A network enviroment to support the web app
