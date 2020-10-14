@@ -63,7 +63,7 @@ I suggest you know how to do by the console before you try deploy by code/templa
 ./create.sh HighAvailabilityWebApp servers.yml servers.json
 ```
 
-![](img/udagramproject.png)
+![](Deploy/img/udagramproject.png)
 
 ## :memo: License
 
