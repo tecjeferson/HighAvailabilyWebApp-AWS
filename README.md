@@ -56,7 +56,11 @@ I suggest you know how to do by the console before you try deploy by code/templa
 ## :checkered_flag: Starting
 
 ```bash
-You can use AWS Cloudformation
+./create.sh webappnetwork networkWebApp.yaml networkWebApp-parameters.json
+```
+
+```bash
+./create.sh HighAvailabilityWebApp servers.yml servers.json
 ```
 
 ## :memo: License
