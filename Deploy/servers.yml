@@ -87,7 +87,6 @@ Resources:
           aws s3 cp s3://udacity-demo-1/udacity.zip .
           sudo unzip -o udacity.zip
       ImageId: ami-07a29e5e945228fa1
-      KeyName: jumpbox-key
       SecurityGroups:
         - Ref: WebServerSecGroup
       InstanceType: t3.medium
