@@ -63,6 +63,8 @@ I suggest you know how to do by the console before you try deploy by code/templa
 ./create.sh HighAvailabilityWebApp servers.yml servers.json
 ```
 
+![](img/udagramproject.png)
+
 ## :memo: License
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
