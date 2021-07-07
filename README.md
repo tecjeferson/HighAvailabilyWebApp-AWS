@@ -35,7 +35,7 @@
 
 ## :dart: About
 
-This is a script to deploy an RDS resource in AWS
+This is a script to deploy Deploy a Hight Availability WebApp in AWS
 
 ## :sparkles: Features
 
