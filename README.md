@@ -39,7 +39,7 @@ This is a script to deploy an RDS resource in AWS
 
 ## :sparkles: Features
 
-:heavy_check_mark: Deploy RDS in AWS\
+:heavy_check_mark: Deploy a Hight Availability WebApp in AWS\
 :heavy_check_mark: Add it in SecurityGroup\
 
 ## :rocket: Technologies
